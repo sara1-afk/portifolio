@@ -1,12 +1,12 @@
 # portifolio
-in computational thinking i learned many things including what computational thinking is
-I learned to scratch a platform that is really fun
-I moved the p5js
-I created repositories
-I learned about HTML and CSS languages
- I learned how to create a website on google sites
- I messed with the jambort a lot
- I moved a lot in the canva
- create forms, webpage
- I made pages for orange May and yellow September
- and now I'm learning about JavaScript language
+## Estou aprendendo sobre:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+ - HTML
+ - CSS
+ - JavasCript
+
+todas as linguagem foram interessantes de aprender,com essas linguagem eu criei
+- Sites
+- Jogos
+- Paginas na Web
+ - etc...
